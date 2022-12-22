@@ -1,0 +1,52 @@
+
+.section1{
+    width: 100%;
+    height: 100px;
+
+}
+
+.section2{
+    width: 100%;
+    height: auto;
+
+}
+
+.type1{
+    width: 30%;
+    display: block;
+    margin: 0px auto;
+}
+
+.type2{
+    width: 45%;
+    display: block;
+    margin: 5px 400px;
+}
+
+.type3{
+    width: 25%;
+    display: block;
+    margin: 20px auto;
+}
+
+.type3-5{
+    margin: -10px auto;
+}
+
+
+.type4{
+    width: 40%;
+    margin: 20px;
+
+}
+
+.type5{
+    width: 15%;
+    margin: -175px 650px;
+
+}
+
+.type6{
+    margin: 100px auto;
+
+}
